@@ -1,0 +1,16 @@
+C:\Users\Abigayle Jones\workspace\Guessing-Game\obj\Debug\net5.0\Guessing-Game.csproj.AssemblyReference.cache
+C:\Users\Abigayle Jones\workspace\Guessing-Game\obj\Debug\net5.0\Guessing-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abigayle Jones\workspace\Guessing-Game\obj\Debug\net5.0\Guessing-Game.AssemblyInfoInputs.cache
+C:\Users\Abigayle Jones\workspace\Guessing-Game\obj\Debug\net5.0\Guessing-Game.AssemblyInfo.cs
+C:\Users\Abigayle Jones\workspace\Guessing-Game\obj\Debug\net5.0\Guessing-Game.csproj.CoreCompileInputs.cache
+C:\Users\Abigayle Jones\workspace\Guessing-Game\bin\Debug\net5.0\Guessing-Game.exe
+C:\Users\Abigayle Jones\workspace\Guessing-Game\bin\Debug\net5.0\Guessing-Game.deps.json
+C:\Users\Abigayle Jones\workspace\Guessing-Game\bin\Debug\net5.0\Guessing-Game.runtimeconfig.json
+C:\Users\Abigayle Jones\workspace\Guessing-Game\bin\Debug\net5.0\Guessing-Game.runtimeconfig.dev.json
+C:\Users\Abigayle Jones\workspace\Guessing-Game\bin\Debug\net5.0\Guessing-Game.dll
+C:\Users\Abigayle Jones\workspace\Guessing-Game\bin\Debug\net5.0\ref\Guessing-Game.dll
+C:\Users\Abigayle Jones\workspace\Guessing-Game\bin\Debug\net5.0\Guessing-Game.pdb
+C:\Users\Abigayle Jones\workspace\Guessing-Game\obj\Debug\net5.0\Guessing-Game.dll
+C:\Users\Abigayle Jones\workspace\Guessing-Game\obj\Debug\net5.0\ref\Guessing-Game.dll
+C:\Users\Abigayle Jones\workspace\Guessing-Game\obj\Debug\net5.0\Guessing-Game.pdb
+C:\Users\Abigayle Jones\workspace\Guessing-Game\obj\Debug\net5.0\Guessing-Game.genruntimeconfig.cache
