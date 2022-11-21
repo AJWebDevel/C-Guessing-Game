@@ -1,30 +1,37 @@
 ﻿using System;
-
+using System.Collections.Generic;
 
 void Main()
 {
-    int SecretNumber = 42;
-    int UserGuess;
-    Console.WriteLine("Guess a number! ");
+    Console.WriteLine("Difficulty? 1.Easy, 2.Medium, 3.Hard");
+    int difficulty = int.Parse(Console.ReadLine());
 
+    List<int> difficulties = new List<int> { 8, 6, 4 };
+    int numberOfGuesses = difficulties[difficulty - 1];
 
+    Console.WriteLine("Guess the secret number!");
+    int secretNumber = new Random().Next(1, 101);
 
-    for (int i = 1; i < 5; i++)
-
+    for (int i = numberOfGuesses; i >= 1; i--)
     {
 
-        UserGuess = int.Parse(Console.ReadLine());
-        if (UserGuess == SecretNumber)
+        Console.WriteLine($"Your Guess (Guesses left: {i}):");
+        int answer = int.Parse(Console.ReadLine());
+        if (secretNumber == answer)
         {
-            Console.WriteLine($"Correct! Good Guess! You got it on guess number {i}!");
+            Console.WriteLine("correct!");
             break;
         }
         else
         {
-            Console.WriteLine($"Sorry, no dice. You are on guess number {i}. Try again.");
-
+            Console.WriteLine(secretNumber > answer ? "too low!" : "too high!");
         }
     }
+
+
+
+
+
 }
 
 Main();
